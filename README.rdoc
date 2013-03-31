@@ -1,5 +1,6 @@
 http://github.com/Netflix/Cloud-Prize/wiki/images/950x250_BNR_CloudPrize_Attend_v3.jpg
 
+--Ok I've read it (SidP)
 = This contest is for software developers.
 
 = Step 0 - You need your own GitHub account
